@@ -11,3 +11,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Slices
 
 [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals) from The Go Blog
+
+### Maps
+[Macro View of Map Internals In Go](https://www.goinggo.net/2013/12/macro-view-of-map-internals-in-go.html) by William Kennedy
+[Inside the Map Implementation](https://youtu.be/Tl7mi9QmLns) Talk by Keith Randall
