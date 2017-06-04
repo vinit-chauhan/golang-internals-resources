@@ -5,7 +5,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ## Data Structures and Data Types
 
 ### Nil
-[Unerstanding Nil](https://www.youtube.com/watch?v=ynoY2xz-F8s) Talk by Francesc Campoy
+[Understanding Nil](https://www.youtube.com/watch?v=ynoY2xz-F8s) Talk by Francesc Campoy
 
 ### Slices
 [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals) from The Go Blog
