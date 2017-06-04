@@ -1,4 +1,4 @@
-# Golang Internal Resources
+# Golang Internals Resources
 
 This is a curated collection of Articles and Videos about Golang internals. It is intended for advanced/intermediate programmers who are new to Golang and want to understand what happens under the hood. Feel free to add to it!
 
@@ -16,6 +16,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ### Interfaces
 [Go Data Structures: Interfaces](https://research.swtch.com/interfaces) by Russ Cox
+
 [Golang concepts from an OOP point of view](https://github.com/luciotato/golang-notes/blob/master/OOP.md) by Lucio Tato
 
 ### Hacking the Golang Type System
@@ -31,6 +32,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ## Memory
 [The Go Memory Model](https://golang.org/ref/mem) from the Go Documentation
+
 [Contiguous Stacks](https://docs.google.com/document/d/1wAaf1rYoM4S4gtnPh0zOlGzWtrZFQ5suE8qr2sD8uWQ/pub)
 
 ### Garbage Collection
@@ -38,5 +40,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ## Compilation
 [A Quick Guide to Go's Assembler](https://golang.org/doc/asm) from the Go Documentation
+
 [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) talk by Rob Pike
+
 [Golang Internals](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html) Series of Blog Posts by Siarhei Matsiukevich
