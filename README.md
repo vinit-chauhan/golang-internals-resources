@@ -12,6 +12,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ### Maps
 [Macro View of Map Internals In Go](https://www.goinggo.net/2013/12/macro-view-of-map-internals-in-go.html) by William Kennedy
+
 [Inside the Map Implementation](https://youtu.be/Tl7mi9QmLns) Talk by Keith Randall
 
 ### Interfaces
