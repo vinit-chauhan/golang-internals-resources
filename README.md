@@ -49,12 +49,27 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Garbage Collection
 [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) by Will Sewell
 
+[Request Oriented Collector (ROC) Algorithm](https://golang.org/s/gctoc) by Rick Hudson and Austin Clements and
+_[discussion at golang-dev](https://groups.google.com/d/topic/golang-dev/WcZaqTE51ZU/discussion)_
+
 ## Compilation
 [A Quick Guide to Go's Assembler](https://golang.org/doc/asm) from the Go Documentation
 
 [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) talk by Rob Pike
 
+[Dropping Down Go Functions in Assembly](https://youtu.be/9jpnFmJr2PE) ([slides](https://github.com/golang/go/files/447163/GoFunctionsInAssembly.pdf)) talk by Michael Munday
+
 [Golang Internals](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html) Series of Blog Posts by Siarhei Matsiukevich
+
+### SSA compiler
+[SSA Backend for the Go Compiler](https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/edit) by Keith Randall
+
+**Algorithms used by SSA compiler**
+
+[Simple and Efficient Construction of Static Single
+Assignment Form](http://pp.info.uni-karlsruhe.de/uploads/publikationen/braun13cc.pdf) by Braun, Buchwald, Hack, Leißa, Mallon, and Zwinkau
+
+[A Linear Time Algorithm for Placing Φ-Nodes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.1979&rep=rep1&type=pdf) by Sreedhar & Gao
 
 ## General
 
