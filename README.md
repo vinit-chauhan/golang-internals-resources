@@ -39,6 +39,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [Go Preemptive Scheduler Design Doc](https://docs.google.com/document/d/1ETuA2IOmnaQ4j81AtTGT40Y4_Jr6_IDASEKg0t0dBR8/edit#heading=h.3pilqarbrc9h) by Dmitry Vyukov from the Go 1.3 Design Docs
 
+[How does the golang scheduler work?](https://www.quora.com/How-does-the-golang-scheduler-work/answer/Ian-Lance-Taylor) by Ian Lance Taylor
+
 ## Memory
 [The Go Memory Model](https://golang.org/ref/mem) from the Go Documentation
 
