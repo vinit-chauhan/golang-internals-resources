@@ -33,6 +33,9 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Channels
 [Channels in Golang](http://www.tapirgames.com/blog/golang-channel) by @TapirLiu
 
+### Tools
+["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) Talk by Kavya Joshi
+
 ## Scheduler
 
 [Scalable Go Scheduler Design Doc](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit#heading=h.mmq8lm48qfcw) by Dmitry Vyukov from the Go 1.1 Design Docs
