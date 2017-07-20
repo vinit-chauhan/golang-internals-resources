@@ -44,6 +44,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [How does the golang scheduler work?](https://www.quora.com/How-does-the-golang-scheduler-work/answer/Ian-Lance-Taylor) by Ian Lance Taylor
 
+[Go's work-stealing scheduler](https://rakyll.org/scheduler/) by Jaana B. Dogan
+
 ### Timers
 [How Do They Do It: Timers in Go](https://lk4d4.darth.io/posts/go-timers/) by Alexander Morozov
 
