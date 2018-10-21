@@ -23,7 +23,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) Talk by Francesc Campoy
 
 ### Hacking the Golang Type System
-[Hacking Go's type system](https://katcipis.github.io/2017/04/21/hack-go-types.html) by Tiago Katcipis
+[Hacking Go's type system](https://katcipis.github.io/blog/hack-go-types/) by Tiago Katcipis
 
 ## Concurrency Primitives
 
