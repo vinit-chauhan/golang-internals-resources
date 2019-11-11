@@ -10,6 +10,9 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Slices
 [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals) from The Go Blog
 
+### Structs
+[The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct) by Dave Chevney
+
 ### Maps
 [Macro View of Map Internals In Go](https://www.goinggo.net/2013/12/macro-view-of-map-internals-in-go.html) by William Kennedy
 
