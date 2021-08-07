@@ -76,8 +76,12 @@ _[discussion at golang-dev](https://groups.google.com/d/topic/golang-dev/WcZaqTE
 
 [Golang Internals](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html) Series of Blog Posts by Siarhei Matsiukevich
 
+[Go compiler internals: adding a new statement to Go](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/) two-part series of posts by Eli Bendersky
+
 ### SSA compiler
 [SSA Backend for the Go Compiler](https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/edit) by Keith Randall
+
+[SSA optimization rules description language](https://quasilyte.dev/blog/post/go_ssa_rules/) by Iskander Sharipov
 
 **Algorithms used by SSA compiler**
 
