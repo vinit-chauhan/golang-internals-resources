@@ -30,6 +30,9 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Hacking the Golang Type System
 [Hacking Go's type system](https://katcipis.github.io/blog/hack-go-types/) by Tiago Katcipis
 
+## Go 1.18 Generics
+[Go 1.18 Implementation of Generics via Dictionaries and Gcshape Stenciling](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
+
 ## Concurrency Primitives
 
 ### Goroutines
